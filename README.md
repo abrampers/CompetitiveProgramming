@@ -1,3 +1,4 @@
-# CompetitiveProgramming
+# Competitive Programming
 
-This repo contains my Competitive Programming solves
+My solutions for Competitive Programming problems in Online Judge.
+
