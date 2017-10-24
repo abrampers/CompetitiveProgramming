@@ -5,7 +5,7 @@
 using namespace std;
 
 int a, b, ret1, ret2;
-int dp[105][105];
+int dp[1005][1005];
 
 int ngedp(int persen1, int persen2) {
     int &ret = dp[persen1][persen2];
